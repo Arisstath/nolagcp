@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/jcl-over-slf4j-1.7.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/jetty-http-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/jetty-io-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/jetty-security-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/jetty-server-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/jetty-servlet-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/jetty-util-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/jetty-webapp-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/jetty-xml-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/mina-core-2.0.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/slf4j-api-1.7.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/slf4j-log4j12-1.7.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/spark-core-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/spring-beans-2.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/spring-context-2.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/spring-core-2.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/websocket-api-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/websocket-client-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/websocket-common-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/websocket-server-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/websocket-servlet-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Libs/org.json.jar"/>
+	<classpathentry kind="lib" path="C:/Libs/json-simple-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

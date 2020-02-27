@@ -1,0 +1,3 @@
+I have stripped the html templates that I used, I am not allowed to release them for public because they are copyrighted.
+
+Some files have been not uploaded to prevent kids making the panel work without coding knowledge.

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/ftplet-api-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/ftpserver-core-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/NoLAGcp/mina-core-2.0.16.jar"/>
+	<classpathentry kind="lib" path="C:/Libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Libs/commons-cli-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Libs/jna-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Libs/mysql-connector-java-5.1.38-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Libs/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Libs/fluent-hc-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Libs/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Libs/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/spark/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/spark/jetty-client-9.4.4.v20170414.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/spark/jetty-http-9.4.4.v20170414.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/spark/jetty-io-9.4.4.v20170414.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/spark/jetty-security-9.4.4.v20170414.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/spark/jetty-server-9.4.4.v20170414.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/spark/jetty-servlet-9.4.4.v20170414.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/spark/jetty-util-9.4.4.v20170414.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/spark/jetty-webapp-9.4.4.v20170414.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/spark/jetty-xml-9.4.4.v20170414.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/spark/slf4j-api-1.7.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/spark/spark-core-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/spark/websocket-api-9.4.4.v20170414.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/spark/websocket-client-9.4.4.v20170414.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/spark/websocket-common-9.4.4.v20170414.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/spark/websocket-server-9.4.4.v20170414.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Documents/spark/websocket-servlet-9.4.4.v20170414.jar"/>
+	<classpathentry kind="lib" path="C:/Libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Libs/slf4j-simple-1.7.21.jar"/>
+	<classpathentry kind="lib" path="C:/Libs/c3p0-oracle-thin-extras-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Libs/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Libs/mchange-commons-java-0.2.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Desktop/SERVER/nolag/srv/vionity-daemon/source2/Plugins/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Desktop/SERVER/nolag/srv/vionity-daemon/source2/Plugins/jPowerShell-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Desktop/SERVER/nolag/srv/vionity-daemon/source2/Plugins/jProcesses-1.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Άρης Σταθουλόπουλος/Desktop/SERVER/nolag/srv/vionity-daemon/source2/Plugins/WMI4Java-1.4.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

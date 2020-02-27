@@ -1,0 +1,10 @@
+This is basically one of my first big Java projects.
+
+It was extremely rushed (done under a week) and the best practicses are not followed.
+
+Interesting fails
+Main.java
+src->me->arisstath->cp->obj->MinecraftServer.java
+
+
+-Arisstath
